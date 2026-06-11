@@ -2,8 +2,6 @@
 
 Light Dimmer written in C 
 
-The game does not have an online mode so far, you play with yourself.
-
 <p>
 <img src="LightDimmer.gif" alt="" width="500" height="400" >
 </p>
